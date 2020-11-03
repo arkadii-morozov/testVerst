@@ -74,7 +74,6 @@ function init(){
 
         tooltipElem.style.left = left + 'px';
         tooltipElem.style.top = top + 'px';
-        console.log(top);
     });
 
     $(document).on('mouseout', function(e) {
